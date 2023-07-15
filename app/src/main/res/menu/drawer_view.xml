@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_first_fragment"
+            android:icon="@drawable/app1"
+            android:title="Miguel Coding App"/>
+        <item
+            android:id="@+id/nav_second_fragment"
+            android:icon="@drawable/app1"
+            android:title="Kotlin Coding App"/>
+        <item
+            android:id="@+id/nav_third_fragment"
+            android:icon="@drawable/app1"
+            android:title="Miguel Java App"/>
+    </group>
+</menu>
